@@ -1,4 +1,9 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3cGI3MnFwb2Fqdmx5ZjczZGRnaGV0eGZ5ZHZvanZ3djhodmY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKLLS6ZGQsrwZVgXix/giphy.gif)](https://bidhandhakal.com.np)
+<p align="center">
+  <a href="https://bidhandhakal.com.np">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3cGI3MnFwb2Fqdmx5ZjczZGRnaGV0eGZ5ZHZvanZ3djhodmY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKLLS6ZGQsrwZVgXix/giphy.gif" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1>
 
 # 💫 About Me:
