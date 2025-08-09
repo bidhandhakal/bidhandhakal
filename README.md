@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)](https://bidhandhakal.com.np)
+[![MasterHead](https://steemitimages.com/0x0/https://steemitimages.com/DQmZqCb2bJNuP7FmRB9K3jGEqyTSSv8Wk5UniXKr7QnbPvc/4.gif)](https://bidhandhakal.com.np)
 <h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1>
 
 # 💫 About Me:
