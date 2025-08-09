@@ -1,4 +1,4 @@
-[![MasterHead](https://steemitimages.com/0x0/https://steemitimages.com/DQmZqCb2bJNuP7FmRB9K3jGEqyTSSv8Wk5UniXKr7QnbPvc/4.gif)](https://bidhandhakal.com.np)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3cGI3MnFwb2Fqdmx5ZjczZGRnaGV0eGZ5ZHZvanZ3djhodmY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKLLS6ZGQsrwZVgXix/giphy.gif)](https://bidhandhakal.com.np)
 <h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1>
 
 # 💫 About Me:
