@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/960px-Facebook_logo_%28square%29.png)](https://facebook.com/bidhandhakal365) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bidhandhakal365) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bidhandhakal365) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bidxu51334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bidhandhakal365@gmail.com)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/60px-Facebook_logo_%28square%29.png)](https://facebook.com/bidhandhakal365) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bidhandhakal365) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bidhandhakal365) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bidxu51334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bidhandhakal365@gmail.com)
 
 
 # 💻 Tech Stack:
