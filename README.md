@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bidhandhakal.com.np">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3cGI3MnFwb2Fqdmx5ZjczZGRnaGV0eGZ5ZHZvanZ3djhodmY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YKLLS6ZGQsrwZVgXix/giphy.gif" width="100%" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
   </a>
 </p>
 
