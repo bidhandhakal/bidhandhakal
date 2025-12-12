@@ -9,17 +9,6 @@
 # 💫 About Me:
 
 🔭 I’m currently working on Realtime Chatapp.<br>🌱 I’m currently learning React, Nextjs, Typescript, Mongodb, Nodejs, Expressjs.<br>💬 Ask me about Frontend frameworks like Next.js, React, and Tailwind CSS. <br>⚡ Fun fact I started coding at 15 and love turning ideas into apps that people can use!
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bidhandhakal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bidhandhakal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhandhakal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=bidhandhakal&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=bidhandhakal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
