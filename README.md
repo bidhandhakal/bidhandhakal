@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bidhandhakal.com.np">
-    <img src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif" width="100%" />
+    <img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTk0NDIsIm5iZiI6MTc2NTU1OTE0MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDE3MDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxN2ViY2YyODljMDBjZDFiYzgzMTZjN2ExNmEyYmQ4Y2UyNDIyNTQyY2ZjYjBhZWViN2NjMzhjYmYwNzA3M2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-9kgwqgHx82Rx4gYExWzBx9E-8nyZxQVZ_UQsCfQGSw" width="100%" />
   </a>
 </p>
 
