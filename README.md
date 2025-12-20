@@ -4,7 +4,7 @@
 
 </br>
 🎓 +2 student from Nepal  </br>
-🔭 Currently building **QuickList**, a fast and minimal todo app  </br>
+🔭 Currently building "QuickList", a fast and minimal todo app  </br>
 🌱 Learning React, Next.js & TypeScript  </br>
 💬 Interested in clean UI, smooth UX, and productivity tools</br>
 
