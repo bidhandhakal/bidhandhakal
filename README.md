@@ -1,14 +1,10 @@
-<p align="center">
-  <a href="https://bidhandhakal.com.np">
-    <img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTk0NDIsIm5iZiI6MTc2NTU1OTE0MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDE3MDU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxN2ViY2YyODljMDBjZDFiYzgzMTZjN2ExNmEyYmQ4Y2UyNDIyNTQyY2ZjYjBhZWViN2NjMzhjYmYwNzA3M2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-9kgwqgHx82Rx4gYExWzBx9E-8nyZxQVZ_UQsCfQGSw" width="100%" />
-  </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1>
+# 💫 About Me</br>
+🎓 +2 student from Nepal  </br>
+🔭 Currently building **QuickList**, a fast and minimal todo app  </br>
+🌱 Learning React, Next.js & TypeScript  </br>
+💬 Interested in clean UI, smooth UX, and productivity tools</br>
 
-# 💫 About Me:
-
-🔭 I’m currently working on Realtime Chatapp.<br>🌱 I’m currently learning React, Nextjs, Typescript, Mongodb, Nodejs, Expressjs.<br>💬 Ask me about Frontend frameworks like Next.js, React, and Tailwind CSS. <br>⚡ Fun fact I started coding at 15 and love turning ideas into apps that people can use!
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=bidhandhakal&theme=dark&hide_border=false)<br/>
