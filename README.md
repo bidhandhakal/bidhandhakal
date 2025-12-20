@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1>
-# 💫 About Me</br>
+<h1 align="center">Hi 👋, I'm Bidhan Dhakal</h1></br>
+#💫 About Me </br>
 🎓 +2 student from Nepal  </br>
 🔭 Currently building **QuickList**, a fast and minimal todo app  </br>
 🌱 Learning React, Next.js & TypeScript  </br>
