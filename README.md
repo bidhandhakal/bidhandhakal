@@ -1,1 +1,2 @@
-# I code which Machine Understands.
+#### I'm Bidhan  
+__Currently learning and building.__
