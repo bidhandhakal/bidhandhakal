@@ -1,2 +1,2 @@
-#### I'm Bidhan  
+#### Hi! I'm Bidhan  
 _Currently learning and building._
