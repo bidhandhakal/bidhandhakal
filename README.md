@@ -1,4 +1,4 @@
 # Hi, I'm Bidhaan
 
-**[idonnno](https://idonnno.vercel.app)** - a stupid little project that counts
+**[idonnno](https://idonnno.vercel.app)** - a stupid little counter that counts
 
